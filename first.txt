@@ -1,4 +1,8 @@
 This is the first commit.
 first.txt
 Modified!
+<<<<<<< HEAD
 test conflict
+=======
+git diff
+>>>>>>> 6e140e9307022eaee23e9f97ae5f782a68987b7e
