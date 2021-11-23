@@ -3,3 +3,5 @@ first.txt
 Modified!
 test conflict
 git diff
+
+main branch first.txt updated
